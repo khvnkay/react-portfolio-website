@@ -59,10 +59,10 @@ export const Services = () => {
           </div>
 
           <ul className='service__list'>
-            <li>
+          <li>
               <BiCheck className='service__list-icon' />
               <p>
-              2017 work at angstrom
+                2022 work at IBM
               </p>
             </li>
             <li>
@@ -74,7 +74,7 @@ export const Services = () => {
             <li>
               <BiCheck className='service__list-icon' />
               <p>
-                2022 work at IBM
+              2017 work at angstrom
               </p>
             </li>
           </ul>
