@@ -53,6 +53,9 @@ header {
   font-weight: 300;
   font-size: 0.9rem;
 }
+.me-img {
+    height: 100%;
+}
 @media screen and (max-width: 1024px) {
   header {
     height: 68vh;

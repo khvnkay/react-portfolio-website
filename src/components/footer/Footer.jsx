@@ -8,7 +8,7 @@ export const Footer = () => {
   return (
     <footer>
       <a href='' className='footer__logo'>
-        EGator
+        {/* EGator */}
       </a>
 
       <ul className='permalinks'>
@@ -41,7 +41,7 @@ export const Footer = () => {
         <a href="https://facebook.com"><IoLogoTwitter/></a>
       </div>
       <div className="footer__copyright">
-        <small>&copy; KRongkan Toturils. All right reserved.</small>
+        <small>&copy; Krongkan. All right reserved.</small>
       </div>
     </footer>
   );

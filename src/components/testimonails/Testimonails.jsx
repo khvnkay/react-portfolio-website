@@ -15,22 +15,22 @@ const data = [
   {
     avatar: AVATR1,
     name: 'Tina Snow',
-    review: 'lofddmmmmdsmdsmdsadmsfkldslfdsfksdfljsdfjlskdj',
+    review: '-',
   },
   {
     avatar: AVATR2,
     name: 'Tina Snow',
-    review: 'lofddmmmmdsmdsmdsadmsfkldslfdsfksdfljsdfjlskdj',
+    review: '-',
   },
   {
     avatar: AVATR3,
     name: 'xxx Snow',
-    review: 'lofddmmmmdsmdsmdsadmsfkldslfdsfksdfljsdfjlskdj',
+    review: '-',
   },
   {
     avatar: AVATR4,
     name: 'vvv Snow',
-    review: 'lofddmmmmdsmdsmdsadmsfkldslfdsfksdfljsdfjlskdj',
+    review: '-',
   },
 ];
 

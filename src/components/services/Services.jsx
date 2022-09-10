@@ -9,7 +9,7 @@ export const Services = () => {
       <h2>Services</h2>
 
       <div className='container  services__container'>
-        <article className='service'>
+        {/* <article className='service'>
           <div className='service__head'>
             <h3>UI/UX Design</h3>
           </div>
@@ -52,7 +52,7 @@ export const Services = () => {
               </p>
             </li>
           </ul>
-        </article>
+        </article> */}
         <article className='service'>
           <div className='service__head'>
             <h3>Web Development</h3>
@@ -62,48 +62,24 @@ export const Services = () => {
             <li>
               <BiCheck className='service__list-icon' />
               <p>
-                This handy tool helps you create dummy text for all your layout
+              2017 work at angstrom
               </p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
               <p>
-                This handy tool helps you create dummy text for all your layout
+                2020 work at refinitiv
               </p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
               <p>
-                This handy tool helps you create dummy text for all your layout
-              </p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>
-                This handy tool helps you create dummy text for all your layout
-              </p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>
-                This handy tool helps you create dummy text for all your layout
-              </p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>
-                This handy tool helps you create dummy text for all your layout
-              </p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>
-                This handy tool helps you create dummy text for all your layout
+                2022 work at IBM
               </p>
             </li>
           </ul>
         </article>
-        <article className='service'>
+        {/* <article className='service'>
           <div className='service__head'>
             <h3>Content Creation</h3>
           </div>
@@ -146,7 +122,7 @@ export const Services = () => {
               </p>
             </li>
           </ul>
-        </article>
+        </article> */}
       </div>
     </section>
   );

@@ -26,27 +26,24 @@ export const About = () => {
             <article className='about__card'>
               <FiUsers className='about__icon' />
               <h5>Clients</h5>
-              <small> 200+ Woldwide</small>
+              <small> 10+ Woldwide</small>
             </article>
             <article className='about__card'>
               <VscFolderLibrary className='about__icon' />
               <h5>Projects</h5>
-              <small> 80+ Completed </small>
+              <small> 20+ Completed </small>
             </article>
           </div>
           <div className='content'>
-          <p>
-            twstdsdsdldoslfodfdfdkfsdkfsdkfjsdlf
-            jskdfjlslkdftwstdsdsdldoslfodfdfdkfsdk
-            twstdsdsdldoslfodfdfdkfsdkfsdkfjsdlf
-            jskdfjlslkdftwstdsdsdldoslfodfdfdkfsdk
-            twstdsdsdldoslfodfdfdkfsdkfsdkfjsdlf
-            jskdfjlslkdftwstdsdsdldoslfodfdfdkfsdk
-            twstdsdsdldoslfodfdfdkfsdkfsdkfjsdlf
-            jskdfjlslkdftwstdsdsdldoslfodfdfdkfsdk
-           
-          </p>
-
+            <p>
+              Seeking to advance a growing tech career as a Software Developer.
+              Skilled in Angular, React, HTML, Software Development, and
+              JavaScript. To utilize logical thinking skills and programming
+              expertise to provide the company with excellent software solution.
+              Strong engineering professional with a Bachelor's degree focused
+              in Engineering from King Mongkut's Institute of Technology
+              Ladkrabang
+            </p>
           </div>
           <a href='#contact' className='btn btn-primary'>
             let's Talk
